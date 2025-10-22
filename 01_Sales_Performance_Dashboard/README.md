@@ -97,8 +97,10 @@ To analyze **sales performance**, **profit margin**, and **customer segments** a
 ## 📬 Author
 
 **shadantech**  
+
 _Data Analyst_
-🔗 [www.linkedin.com/in/shadantech]
+
+🔗 (http://www.linkedin.com/in/shadantech)
 
 ⭐ **If you like this dashboard, don't forget to star the repo!**
 
