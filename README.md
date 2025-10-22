@@ -79,3 +79,19 @@ By exploring this repository, you can learn:
 
 - **Tableau Desktop / Tableau Public**  
 - **Excel / CSV** for datasets  
+
+---
+
+## 📬 Author
+
+**shadantech**  
+_Data Analyst_
+🔗 [www.linkedin.com/in/shadantech]
+
+---
+
+⭐ **If you like this dashboard, don't forget to star the repo!**
+
+---
+
+**Tags:** #Tableau #DataVisualization #Dashboard #Analytics #Superstore

@@ -89,10 +89,9 @@ To analyze **sales performance**, **profit margin**, and **customer segments** a
 
 ## 📬 Author
 
-**Shadan**  
-_Data Analyst | Tableau Enthusiast_  
-📧 [shadansarfaraz01@gmail.com]  
-🔗 [www.linkedin.com/in/shadan-sarfaraz01]
+**shadantech**  
+_Data Analyst_
+🔗 [www.linkedin.com/in/shadantech]
 
 ---
 
