@@ -93,10 +93,5 @@ To analyze **sales performance**, **profit margin**, and **customer segments** a
 _Data Analyst_
 🔗 [www.linkedin.com/in/shadantech]
 
----
-
 ⭐ **If you like this dashboard, don't forget to star the repo!**
 
----
-
-**Tags:** #Tableau #DataVisualization #Dashboard #Analytics #Superstore
