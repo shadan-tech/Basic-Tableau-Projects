@@ -2,12 +2,14 @@
 
 
 ### 📊 Overview  
+
 This Tableau project visualizes **sales performance and profitability** for the **Superstore_Dataset**.  
 It highlights key business insights using interactive and dynamic visuals to help stakeholders understand trends, product performance, and regional distribution.
 
 ---
 
 ## 🚀 Project Objective  
+
 To analyze **sales performance**, **profit margin**, and **customer segments** across different regions of the U.S., providing actionable insights for strategic decision-making.
 
 ---
@@ -53,6 +55,7 @@ To analyze **sales performance**, **profit margin**, and **customer segments** a
 ---
 
 ## ⚙️ Dashboard Interactivity  
+
 ✅ Interactive Filters (Metric, Region, Year)  
 ✅ Dynamic KPIs with trend indicators  
 ✅ Geo-map integration for regional performance  
@@ -61,6 +64,7 @@ To analyze **sales performance**, **profit margin**, and **customer segments** a
 ---
 
 ## 🛠️ Tools & Technologies
+
 - **Tableau Desktop**: For data visualization and dashboard creation  
 - **Superstore Dataset**: Sample dataset for sales, profit, and customer analysis
 - Advanced Tableau features: Calculated Fields, Parameters, Filter & Highlight Actions, Story Points 
@@ -68,11 +72,13 @@ To analyze **sales performance**, **profit margin**, and **customer segments** a
 ---
 
 ## 📊 Dashboard Preview
+
 ![Dashboard Preview](Dashboard_Preview.png)
 
 ---
 
 ## 🔗 Live Preview 
+
 [🔗 View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/shadan.sarfaraz/viz/Sales_Performance_Dashboard_17610908572640/Sales_Performance_Dashboard?publish=yes)
 
 ---
@@ -84,6 +90,7 @@ To analyze **sales performance**, **profit margin**, and **customer segments** a
 ├── Superstore_Dataset.xls
 ├── Dashboard_Preview.png 
 └── README.md 
+```
 
 ---
 

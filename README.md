@@ -32,6 +32,7 @@ Basic-Tableau-Projects/
 ---
 
 ## 🚀 Objective
+
 The goal of this repository is to:
 - Showcase interactive Tableau dashboards using real-world datasets
 - Demonstrate business insights, data storytelling, and analytics skills
@@ -40,6 +41,7 @@ The goal of this repository is to:
 ---
 
 ## 📌 How to Use
+
 1. Navigate to the project folder you are interested in.
 2. Open the Tableau workbook (.twbx) in Tableau Desktop or Tableau Public.
 3. Explore the dashboards and interact with the visuals.
@@ -48,6 +50,7 @@ The goal of this repository is to:
 ---
 
 ## 🧩 Current Projects
+
 - 01_Superstore_Dashboard – Sales Performance and Profit Analysis
   - Features interactive visualizations of regional sales, product performance, and customer insights.
 
@@ -56,6 +59,7 @@ The goal of this repository is to:
 ---
 
 ## 📚 Learning Outcomes
+
 By exploring this repository, you can learn:
 - Data visualization best practices in Tableau
 - Dashboard interactivity (filters, actions, parameters)
@@ -65,20 +69,23 @@ By exploring this repository, you can learn:
 ---
 
 ## 💡 Contributions
+
 - This repository is maintained by Shadan
 - Suggestions, feedback, and contributions are welcome via pull requests
 
 ---
 
 ## ⚡ Tech Stack
+
 - Tableau Desktop / Tableau Public
 - Excel / CSV for datasets
 
-
+---
 
 ## 📬 Author
-shadantech
-Data Analyst
+
+**shadantech**
+_Data Analyst_
 🔗 (http://www.linkedin.com/in/shadantech)
 
 ⭐ If you like this dashboard, don't forget to star the repo!
