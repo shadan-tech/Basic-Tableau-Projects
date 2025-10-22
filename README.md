@@ -32,6 +32,7 @@ Basic-Tableau-Projects/
 ## 🚀 Objective
 
 The goal of this repository is to:
+
 - Showcase **interactive Tableau dashboards** using real-world datasets  
 - Demonstrate **business insights, data storytelling, and analytics skills**  
 - Serve as a **learning resource** for Tableau enthusiasts and aspiring Data Analysts  
