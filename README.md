@@ -87,5 +87,4 @@ By exploring this repository, you can learn:
 **shadantech**  
 _Data Analyst_
 🔗 [www.linkedin.com/in/shadantech]
-
 ⭐ **If you like this dashboard, don't forget to star the repo!**
