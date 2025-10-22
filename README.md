@@ -7,7 +7,8 @@ I will be continuously adding more projects here as I create them.
 ---
 
 ## 🗂 Repository Structure
-```bash
+
+```text
 Basic-Tableau-Projects/
 │
 ├── 01_Superstore_Dashboard/
@@ -87,4 +88,6 @@ By exploring this repository, you can learn:
 **shadantech**  
 _Data Analyst_
 🔗 [www.linkedin.com/in/shadantech]
+
 ⭐ **If you like this dashboard, don't forget to star the repo!**
+
