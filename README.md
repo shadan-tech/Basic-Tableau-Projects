@@ -82,14 +82,16 @@ By exploring this repository, you can learn:
 
 ---
 
-## 📬 Author
-
-**shadantech**
-
+## 👤 Author
+**Shadan Tech**   
 _Data Analyst_
+🔗 [LinkedIn Profile](http://www.linkedin.com/in/shadantech)  
+🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/shadan.sarfaraz/vizzes)
+🔗 [Newsletter](https://shadantech.substack.com/)
 
-🔗 (http://www.linkedin.com/in/shadantech)
+---
 
-⭐ If you like this dashboard, don't forget to star the repo!
+## ⭐ Show Your Support
 
-
+If you found this project insightful, give it a **⭐ Star** on GitHub — it helps others discover it too!  
+Connect on **LinkedIn** for more Power BI, Tableau, and Data Analytics projects.
