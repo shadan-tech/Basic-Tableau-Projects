@@ -103,4 +103,3 @@ _Data Analyst_
 🔗 (http://www.linkedin.com/in/shadantech)
 
 ⭐ **If you like this dashboard, don't forget to star the repo!**
-
